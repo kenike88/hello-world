@@ -1,6 +1,6 @@
 {
   "name": "Hello World",
   "tagline": "Learning how to use Git",
-  "body": "> The first step towards knowledge is to know that we are ignorant.**\r\n\r\n\r\n***\r\n\r\nI have tried using Git back in 2012, but I did not learn it completely. Now that I have got some projects in mind, this would hopefully be the start of something good. Hello World!\r\n",
+  "body": "# GitHub Pages\r\n\r\n> The first step towards knowledge is to know that we are ignorant.**\r\n\r\n\r\n***\r\n\r\nI have tried using Git back in 2012, but I did not learn it completely. Now that I have got some projects in mind, this would hopefully be the start of something good. Hello World!\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
